@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "pqblocks-digital-anneal"
+version: "0.1.0"
+license: Apache-2.0
+repository-code: "https://github.com/PQBlocks/digital-annealing"
+authors:
+  - name: "The PQBlocks Authors"
+keywords:
+  - digital-annealing
+  - parallel-trial
+  - ising
+  - qubo
+  - quantum-inspired
+  - heuristic
+  - numba
+abstract: "Digital Annealer-style parallel-trial heuristic solver for Ising and QUBO optimization problems. Quantum-inspired classical optimization, not cryptography."
